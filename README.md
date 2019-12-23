@@ -1,0 +1,2 @@
+# Data-on-births-in-the-United-States-using-pivot-tables-sigma-clipping-and-datetime-index
+Data on births in the United States, provided by the Centers for Disease Control (CDC). This data can be found at https://raw.githubusercontent.com/jakevdp/data-CDCbirths/master/ births.csv (this dataset has been analyzed rather extensively by Andrew Gelman and his group. We will focus on the pivot table object again, sigma clipping method and incorporating the datetime index to explore the data further.
